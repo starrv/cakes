@@ -1,0 +1,36 @@
+{
+  "cakes": [
+    {
+      "id": 1,
+      "name": "chocolate cake",
+      "description": "Try out this delicious chocolate cake",
+      "image": "https://cdn.shopify.com/s/files/1/0007/2164/9722/products/BAH-Parisian-1_110x110@2x.jpg?v=1667520478",
+      "price": 12,
+      "likes": 0
+    },
+    {
+      "id": 2,
+      "name": "vanilla cake",
+      "description": "Try out this delicious vanilla cake",
+      "image": "https://2.bp.blogspot.com/-J9NEqknidMo/Vx_FNx7y9nI/AAAAAAAACzI/-iLnTO3pLP46RtdSYbBw5ugA9k9UiN1DwCKgB/s1600/Vanilla%2BCake%2BSySPME.jpg",
+      "price": 11,
+      "likes": 0
+    },
+    {
+      "id": 3,
+      "name": "strawberry cake",
+      "description": "Try out this delicious strawberry cake",
+      "image": "https://myquietkitchen.com/wp-content/uploads/2019/07/Vegan-Strawberry-Cake.jpg",
+      "price": 13,
+      "likes": 0
+    },
+    {
+      "id": 4,
+      "name": "pound cake",
+      "description": "Try out this delicious pound cake",
+      "image": "https://www.biggerbolderbaking.com/wp-content/uploads/2021/01/Sour-Cream-Pound-Cake-Thumbnail-scaled.jpg",
+      "price": 10,
+      "likes": 0
+    }
+  ]
+}
