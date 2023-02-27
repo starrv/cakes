@@ -31,6 +31,14 @@
       "image": "https://www.biggerbolderbaking.com/wp-content/uploads/2021/01/Sour-Cream-Pound-Cake-Thumbnail-scaled.jpg",
       "price": 10,
       "likes": 0
+    },
+    {
+      "name": "blueberry",
+      "description": "Delicious cake",
+      "image": "https://preppykitchen.com/wp-content/uploads/2021/07/Blueberry-Cake-recipe-n-500x500.jpg",
+      "price": "15",
+      "likes": 0,
+      "id": 5
     }
   ]
 }

@@ -8,7 +8,7 @@ function AddCakeForm({addCake,handleName,handleDescription,handleImage,handlePri
             <form onSubmit={(e)=>addCake(e)}>
                 <div>
                     <label htmlFor="name">Name:</label>
-                    <input type="text" name="name" onChange={e=>handleName(e)} />
+                    <input type="text" name="name" onChange={handleName} />
                 </div>
                 <div>
                     <label htmlFor="description">Description:</label>
