@@ -39,6 +39,14 @@
       "price": "15",
       "likes": 0,
       "id": 5
+    },
+    {
+      "name": "pineapple cake",
+      "description": "delicious pineapple cake",
+      "image": "https://tmbidigitalassetsazure.blob.core.windows.net/toh/GoogleImagesPostCard/Mini-Pineapple-Upside-Down-Cake_EXPS_TOHcom19_26093_B10_04_3b.jpg",
+      "price": "15",
+      "likes": 0,
+      "id": 6
     }
   ]
 }

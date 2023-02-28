@@ -8,7 +8,7 @@ function Cake({cake:{name,description,image,price,likes}}){
             <p>
                {description}
             </p>
-            <img src={image} alt="image" />
+            <img src={image} alt="cake" />
             <p>
                ${price}
             </p>

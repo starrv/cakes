@@ -6,17 +6,17 @@ function CakeMenu(){
 
     const URL="http://localhost:3001/cakes";
 
-    useEffect(()=>{
-        console.log("getting ready to fetch cakes");
-        fetchCakes();
-    },[]);
-
     const [cakes,setCakes]=useState([]);
 
     const [name,setName]=useState("");
     const [description,setDescription]=useState("");
     const [image,setImage]=useState("");
     const [price,setPrice]=useState("");
+
+    useEffect(()=>{
+        console.log("getting ready to fetch cakes");
+        fetchCakes();
+    },[]);
 
     function fetchCakes(){
         fetch(URL)
